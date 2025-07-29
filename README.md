@@ -13,10 +13,10 @@ SMARTCRYPT is a secure data management platform designed for Industrial IoT (IIo
 
 ## 🏗️ Tech Stack
 
-- **Frontend**: HTML/CSS, JavaScript
-- **Backend**: Django (Python)
-- **Database**: SQLite (development)
-- **Deployment**: Localhost (development) - supports deployment on cloud infrastructure
+| Frontend           | Backend              | Database            | Tools                                                                |
+|--------------------|----------------------|---------------------|----------------------------------------------------------------------|
+| HTML, CSS,         | Django (Python)      | SQLite (development)|Localhost (development) - supports deployment on cloud infrastructure |
+| JavaScript         |                      |                     |                                                                      |
 
 ## 📂 Project Structure
 
@@ -30,18 +30,18 @@ cloudmanagementproject/
 
 ## 🚀 Getting Started
 
-1. Clone the repository
-   git clone https://github.com/your-username/smartcrypt.git
-   cd smartcrypt/cloudmanagementproject
-2. Create and activate a virtual environment
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install dependencies
-   pip install -r requirements.txt
-4. Run migrations
-   python manage.py migrate
-5. Start the development server
-   python manage.py runserver
-6. Access the app
-   Open your browser and go to:
-   http://127.0.0.1:8000/
+1. Clone the repository  
+   git clone https://github.com/your-username/smartcrypt.git  
+   cd smartcrypt/cloudmanagementproject  
+2. Create and activate a virtual environment  
+   python -m venv venv  
+   source venv/bin/activate  # On Windows: venv\Scripts\activate  
+3. Install dependencies  
+   pip install -r requirements.txt  
+4. Run migrations  
+   python manage.py migrate  
+5. Start the development server  
+   python manage.py runserver  
+6. Access the app  
+   Open your browser and go to:  
+   http://127.0.0.1:8000/  
