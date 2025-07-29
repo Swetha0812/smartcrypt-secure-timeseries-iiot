@@ -20,13 +20,13 @@ SMARTCRYPT is a secure data management platform designed for Industrial IoT (IIo
 
 ## 📂 Project Structure
 
-cloudmanagementproject/
-├── adminapp/ # Admin views and logic
-├── userapp/ # User-facing views and functionality
-├── templates/ # HTML templates
-├── static/ # Static files (CSS, JS, images)
-├── manage.py # Django management script
-└── db.sqlite3 # SQLite database
+cloudmanagementproject/  
+├── adminapp/ # Admin views and logic  
+├── userapp/ # User-facing views and functionality  
+├── templates/ # HTML templates  
+├── static/ # Static files (CSS, JS, images)  
+├── manage.py # Django management script  
+└── db.sqlite3 # SQLite database  
 
 ## 🚀 Getting Started
 
